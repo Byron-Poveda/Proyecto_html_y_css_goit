@@ -233,11 +233,6 @@ transform: scale(1.2);
 
 }
 
-@keyframes girar-continuo {
-  0% { transform: rotate(0deg);}
-  100% {transform: rotate(360deg);}
-  }
-
 @keyframes texto-estirado{
     0% { letter-spacing:0.7em;}
     100%{ letter-spacing: 0.1em;}
